@@ -66,6 +66,37 @@
 | Location | https://github.com/rambasnet/csci000-astudent/tree/master/labs/cpp/stdio |
 | Self Grade | 100/100 |
 | Notes | fixed all the fixmes; learned about stdio; stdio is the fundamental building blocks in coding |
+# FIXME (EX: CS130-cchepko2)
+| Basic Info | --- |
+| --- | ---|
+| Course: | CSCI130 - CS130: Intro to Engineering Computer Science |
+| Semester: | Spring 2025 |
+| Instructor: | Corin Chepko |
+| Mav Username: | FIXME |
+| GitHub Username: | FIXME |
+| Repository | FIXME(insert link) |
+_______________________________________________________________________________________________________________
+# Assignments
+## Homework #1
+| Name | Value |
+| --- | --- |
+| Name: | FIXME |
+| Description: | FIXME |
+| Due Date: | FIXME |
+| Status: | FIXME (In Progress, Finished, Not Started, etc...) |
+| Location: | <provide GitHub link to assignment> |
+| Notes: | In Progress|
+_______________________________________________________________________________________________________________
+# Labs
+## Lab #1
+| Name | Value |
+| --- | --- |
+| Name: | FIXME |
+| Description: | FIXME |
+| Due Date: | FIXME |
+| Status: | FIXME (In Progress, Finished, Not Started, etc...) |
+| Location: | <provide GitHub link to assignment once you've pushed it> |
+| Notes: | FIXME | 
 
 
 ## References
